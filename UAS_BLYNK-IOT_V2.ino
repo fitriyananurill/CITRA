@@ -10,8 +10,8 @@
 
 #define BLYNK_PRINT Serial
 
-char ssid[] = "ular python";
-char pass[] = "Afia091219";
+char ssid[] = "put you wifi name here";
+char pass[] = "put you wifi password here";
 
 #define ONE_WIRE_BUS 15
 #define RELAY_LAMP 12 // Relay untuk lampu
